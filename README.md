@@ -26,12 +26,12 @@ SQL
 > https://github.com/Cheranga/LearnDbUp
 
 ddd 
-> https://github.com/appie2go/steal-this-code
-> https://github.com/aneshas/tactical-ddd        
+> https://github.com/appie2go/steal-this-code <br/>
+> https://github.com/aneshas/tactical-ddd    
 > https://github.com/zsajjad/rtk-demo
    
 Cqrs
-> https://github.com/vkhorikov/CqrsInPractice
+> https://github.com/vkhorikov/CqrsInPractice <br/>
 > https://github.com/kgrzybek/sample-dotnet-core-cqrs-api        
    
 GraphQL
