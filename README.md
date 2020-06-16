@@ -44,5 +44,8 @@ dotnet + microservices
 angular
 > https://github.com/samteb/angular-7-webpack-4-boilerplate
 
+eshop-angular 
+> https://github.com/ikismail/Angular-ShoppingCart
+
 
 
