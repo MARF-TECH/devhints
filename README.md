@@ -1,5 +1,9 @@
 ### devhints
 
+## Youtube 
+dotnet 
+> https://www.youtube.com/channel/UCNwFQFVL0RSHLsM7rAOf_hg
+
 ## Cheat Sheet 
 *_ 
 > https://devhints.io/
