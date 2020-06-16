@@ -26,7 +26,7 @@ SQL
 > https://github.com/Cheranga/LearnDbUp
 
 ddd 
-> https://github.com/appie2go/steal-this-code/
+> https://github.com/appie2go/steal-this-code
 > https://github.com/aneshas/tactical-ddd        
 > https://github.com/zsajjad/rtk-demo
    
