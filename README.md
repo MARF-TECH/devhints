@@ -21,6 +21,9 @@ dotnet + redis cache
 front + mobx 
 > https://mobx-state-tree.js.org/intro/philosophy
 
+databases 
+> EF -- https://www.learnentityframeworkcore.com/
+
 ## SQL Simple db 
 sql server 
 > https://www.dofactory.com/sql/sample-database
