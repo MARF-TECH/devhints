@@ -24,6 +24,9 @@ front + mobx
 databases 
 > EF -- https://www.learnentityframeworkcore.com/
 
+dotnet
+> backgroud services https://blog.computedcloud.com/background-services-in-net-core-console-app/
+
 ## SQL Simple db 
 sql server 
 > https://www.dofactory.com/sql/sample-database
