@@ -25,7 +25,8 @@ databases
 > EF -- https://www.learnentityframeworkcore.com/
 
 dotnet
-> backgroud services https://blog.computedcloud.com/background-services-in-net-core-console-app/
+> backgroud-services: https://blog.computedcloud.com/background-services-in-net-core-console-app/
+> asp-net: http://bekenty.com/send-e-mail-in-asp-net-core-with-sendgrid/
 
 ## SQL Simple db 
 sql server 
