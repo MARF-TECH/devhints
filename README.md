@@ -58,5 +58,8 @@ angular
 eshop-angular 
 > https://github.com/ikismail/Angular-ShoppingCart
 
-
+## Editors 
+vs code 
+> icon themes : https://github.com/helgardferreira/vscode-helium-icon-theme
+> color theme : https://github.com/framer/syntax
 
