@@ -1,5 +1,9 @@
 ### devhints
 
+## Interview Questions & Algorithm
+csharp 
+> https://www.csharpstar.com/
+
 ## Youtube 
 dotnet 
 > https://www.youtube.com/channel/UCNwFQFVL0RSHLsM7rAOf_hg
