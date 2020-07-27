@@ -55,6 +55,9 @@ GraphQL
 dotnet + microservices
 > https://github.com/MichaCo/AspNetCore.Services
 
+Http Client 
+> https://github.com/canton7/RestEase
+
 ## Starter Kit 
 angular
 > https://github.com/samteb/angular-7-webpack-4-boilerplate
