@@ -32,6 +32,9 @@ dotnet
 > backgroud-services: https://blog.computedcloud.com/background-services-in-net-core-console-app/
 > asp-net: http://bekenty.com/send-e-mail-in-asp-net-core-with-sendgrid/
 
+design pattern 
+> https://blog.cdemi.io/design-patterns-introduction/
+
 ## SQL Simple db 
 sql server 
 > https://www.dofactory.com/sql/sample-database
