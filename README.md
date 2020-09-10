@@ -35,6 +35,10 @@ dotnet
 design pattern 
 > https://blog.cdemi.io/design-patterns-introduction/
 
+## worker jobs 
+azure
+> https://dotnetcoretutorials.com/2018/10/09/azure-webjobs-in-net-core-part-1/
+
 ## SQL Simple db 
 sql server 
 > https://www.dofactory.com/sql/sample-database
