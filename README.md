@@ -1,4 +1,8 @@
-### devhints
+#### devhints
+
+## Tools & Programs  
+Log
+> https://www.baremetalsoft.com/baretail/
 
 ## Interview Questions & Algorithm
 csharp 
