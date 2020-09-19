@@ -4,6 +4,10 @@
 Log
 > https://www.baremetalsoft.com/baretail/
 
+## Extensions 
+Vs code 
+> https://microsoft.github.io/AzureTipsAndTricks/blog/tip248.html
+
 ## Interview Questions & Algorithm
 csharp 
 > https://www.csharpstar.com/
