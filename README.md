@@ -8,6 +8,9 @@ Log
 Vs code 
 > https://microsoft.github.io/AzureTipsAndTricks/blog/tip248.html
 
+## Git CMD
+> https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
+
 ## Interview Questions & Algorithm
 csharp 
 > https://www.csharpstar.com/
