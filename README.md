@@ -8,8 +8,53 @@ Log
 Vs code 
 > https://microsoft.github.io/AzureTipsAndTricks/blog/tip248.html
 
-## Git CMD
+Visual Studio 
+-- Supercharger
+-- Productivity Power Tools
+-- CodeMaid
+-- VSColorOutput
+-- Comment Remover
+-- Conveyor
+-- SwitchStartup
+-- SlowCheetah
+-- Viasfora
+-- File Icons
+-- VSColorOutput
+-- Open Command Line
+-- GoToDnSpy
+
+## Git cmd
 > https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
+
+-- pretty log 
+git config --global alias.prettylog "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+
+-- create branch locally & upstream 
+git branch -u origin/topic
+git branch --set-upstream-to=origin/
+
+-- create branch from tag 
+git checkout tags/<tag_name> -b <branch_name>
+
+-- delete commit before push 
+git reset HEAD~1 --soft [Hard]  
+
+-- stash 
+git stash list 
+git stash store -m ""
+git stash pop 
+
+-- delete branch locally & upstream 
+git branch -d localBranchName
+git push origin --delete remoteBranchName
+
+-- changing history 
+(change last message)
+git commit --amend      --> edit message & save 
+git push --force        --> u have to force the push otherwise it won't work  
+
+(change last commit(s))
+git rebase -i HEAD~3
 
 ## Interview Questions & Algorithm
 csharp 
