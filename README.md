@@ -137,3 +137,6 @@ icon themes
 color theme
 > https://github.com/framer/syntax
 
+## Docker 
+> https://hub.docker.com/r/nshou/elasticsearch-kibana/
+
