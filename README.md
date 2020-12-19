@@ -71,6 +71,9 @@ dotnet
 docker
 > https://devhints.io/docker
 
+elastic
+> https://elasticsearch-cheatsheet.jolicode.com/
+
 ## Articles 
 ddd 
 > https://medium.com/@abstarreveld/implementing-dddomain-models-ports-adapters-and-cqrs-with-c-2b81403f09f7
