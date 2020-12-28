@@ -86,6 +86,7 @@ front + mobx
 
 databases 
 > EF -- https://www.learnentityframeworkcore.com/
+> EF -- Generic Repository + UOW PATTERN : https://stackoverflow.com/questions/52439226/net-core-unit-of-work-generic-repository-pattern/52440285
 
 dotnet
 > backgroud-services: https://blog.computedcloud.com/background-services-in-net-core-console-app/
