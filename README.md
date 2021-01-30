@@ -22,6 +22,7 @@ Visual Studio
 -- VSColorOutput
 -- Open Command Line
 -- GoToDnSpy
+-- https://github.com/dotnet/ResXResourceManager
 
 ## Git cmd
 > https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
